@@ -50,5 +50,3 @@
 [![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
 ---
-
-`⭐️ From [LuizCarlosAbbott](https://github.com/[LuizCarlosAbbott])`
