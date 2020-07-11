@@ -6,9 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:luiz7401@gmail.com)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:luizcarlos_abbott@hotmail.com)](mailto:luizcarlos_abbott@hotmail.com)
 
-## Olá! 👋
-
-    Meu nome é Luiz Carlos, Desenvolvedor Fullstack JavaScript e aspirante a DevOps.
+    Olá meu nome é Luiz Carlos, Desenvolvedor Fullstack JavaScript e aspirante a DevOps.
 
 ## Conhecimentos
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
